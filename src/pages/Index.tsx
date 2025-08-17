@@ -11,9 +11,11 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex-shrink-0">
-              <h1 className="text-2xl font-bold bg-hero-gradient bg-clip-text text-transparent">
-                Fynk
-              </h1>
+              <img 
+                src="/lovable-uploads/dd0d8fc0-16ee-451f-9520-f4827c185b4c.png" 
+                alt="Fynk Logo" 
+                className="h-8 w-auto"
+              />
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#services" className="text-foreground/80 hover:text-foreground transition-colors">
@@ -278,9 +280,11 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center">
             <div className="mb-6">
-              <h3 className="text-2xl font-bold bg-hero-gradient bg-clip-text text-transparent">
-                Fynk
-              </h3>
+              <img 
+                src="/lovable-uploads/dd0d8fc0-16ee-451f-9520-f4827c185b4c.png" 
+                alt="Fynk Logo" 
+                className="h-10 w-auto mx-auto mb-2"
+              />
               <p className="text-muted-foreground mt-2">
                 Expert IT Solutions for Modern Business
               </p>
